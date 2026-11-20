@@ -44,9 +44,9 @@
 ### 🔐 Cybersecurity Projects
 
 **1. Ethical Hacking & Vulnerability Assessment Lab**
-- Practiced network scanning and vulnerability assessment.
-- Used Nmap and Wireshark.
-- Explored basic security testing in a lab environment.
+- Practiced basic ethical hacking, security testing, and vulnerability assessment in a lab environment.
+- Performed network scanning and identified basic security vulnerabilities.
+- Used Wireshark for packet analysis and detecting suspicious network traffic.
 
 **2. SOC Log Analysis Lab**
 - Explored Linux and Windows security logs.
