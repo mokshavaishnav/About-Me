@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moksha</h1>
 
 <h3 align="center">
-  Cybersecurity Enthusiast | Vibe Coder | Tech Explorer
+  Cybersecurity Enthusiast | Vibe Coder 
 </h3>
 
 <p align="center">
